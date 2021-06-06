@@ -13,6 +13,7 @@ Pickling
    :toctree: api/
 
    read_pickle
+   to_pickle
 
 Flat file
 ~~~~~~~~~
@@ -21,6 +22,7 @@ Flat file
 
    read_table
    read_csv
+   to_csv
    read_fwf
 
 Clipboard
@@ -29,6 +31,7 @@ Clipboard
    :toctree: api/
 
    read_clipboard
+   to_clipboard
 
 Excel
 ~~~~~
@@ -36,6 +39,7 @@ Excel
    :toctree: api/
 
    read_excel
+   to_excel
    ExcelFile.parse
 
 .. autosummary::
@@ -50,6 +54,7 @@ JSON
    :toctree: api/
 
    read_json
+   to_json
    json_normalize
 
 .. currentmodule:: pandas.io.json
@@ -67,6 +72,7 @@ HTML
    :toctree: api/
 
    read_html
+   to_html
 
 XML
 ~~~~
@@ -81,6 +87,7 @@ HDFStore: PyTables (HDF5)
    :toctree: api/
 
    read_hdf
+   to_hdf
    HDFStore.put
    HDFStore.append
    HDFStore.get
@@ -101,6 +108,7 @@ Feather
    :toctree: api/
 
    read_feather
+   to_feather
 
 Parquet
 ~~~~~~~
@@ -108,6 +116,7 @@ Parquet
    :toctree: api/
 
    read_parquet
+   to_parquet
 
 ORC
 ~~~
@@ -138,6 +147,7 @@ SQL
    read_sql_table
    read_sql_query
    read_sql
+   to_sql
 
 Google BigQuery
 ~~~~~~~~~~~~~~~
@@ -145,6 +155,7 @@ Google BigQuery
    :toctree: api/
 
    read_gbq
+   to_gbh
 
 STATA
 ~~~~~
@@ -152,6 +163,7 @@ STATA
    :toctree: api/
 
    read_stata
+   to_stata
 
 .. currentmodule:: pandas.io.stata
 
