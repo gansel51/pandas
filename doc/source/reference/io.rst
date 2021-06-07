@@ -95,7 +95,7 @@ LaTeX
 
    DataFrame.to_latex
 
-.. currentmodule:: pandas.io.formats
+.. currentmodule:: pandas.io.formats.style
 .. autosummary::
    :toctree: api/
    Styler.to_latex
