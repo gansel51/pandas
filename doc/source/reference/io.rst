@@ -46,7 +46,7 @@ Excel
 .. autosummary::
    :toctree: api/
 
-   Styler.to_html
+   Styler.to_excel
 
 .. autosummary::
    :toctree: api/
@@ -101,11 +101,11 @@ LaTeX
 
    DataFrame.to_latex
 
-   .. currentmodule:: pandas.io.formats.style
-   .. autosummary::
-      :toctree: api/
+.. currentmodule:: pandas.io.formats.style
+.. autosummary::
+   :toctree: api/
 
-      Styler.to_latex
+   Styler.to_latex
 
 .. currentmodule:: pandas
 HDFStore: PyTables (HDF5)
