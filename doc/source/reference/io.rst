@@ -49,7 +49,6 @@ Excel
 
    ExcelWriter
 
-.. currentmodule:: pandas.io
 .. currentmodule:: pandas.io.json
 JSON
 ~~~~
@@ -74,6 +73,10 @@ HTML
 
    read_html
    DataFrame.to_html
+
+.. currentmodule:: pandas.io
+.. autosummary::
+   :toctree: api/
    Styler.to_html
 
 XML
