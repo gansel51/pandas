@@ -41,13 +41,14 @@ Excel
    read_excel
    DataFrame.to_excel
    ExcelFile.parse
+   Styler.to_excel
 
 .. autosummary::
    :toctree: api/
    :template: autosummary/class_without_autosummary.rst
 
    ExcelWriter
-   
+
 .. currentmodule:: pandas.io
 .. currentmodule:: pandas.io.json
 JSON
@@ -73,6 +74,7 @@ HTML
 
    read_html
    DataFrame.to_html
+   Styler.to_html
 
 XML
 ~~~~
@@ -81,6 +83,15 @@ XML
 
    read_xml
    DataFrame.to_xml
+
+LaTeX
+   ~~~~
+.. autosummary::
+   :toctree: api/
+
+   read_latex
+   DataFrame.to_latex
+   Styler.to_latex
 
 HDFStore: PyTables (HDF5)
 ~~~~~~~~~~~~~~~~~~~~~~~~~

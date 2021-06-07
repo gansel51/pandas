@@ -50,6 +50,7 @@ dist
 *.egg-info
 .eggs
 .pypirc
+.python_version
 
 # tox testing tool
 .tox
