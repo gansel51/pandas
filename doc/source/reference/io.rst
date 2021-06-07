@@ -88,14 +88,16 @@ XML
    read_xml
    DataFrame.to_xml
 
-.. currentmodule:: pandas.io.formats
 LaTeX
 ~~~~
 .. autosummary::
    :toctree: api/
 
-   read_latex
    DataFrame.to_latex
+
+.. currentmodule:: pandas.io.formats
+.. autosummary::
+   :toctree: api/
    Styler.to_latex
 
 .. currentmodule:: pandas
