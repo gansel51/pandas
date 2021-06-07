@@ -174,7 +174,7 @@ Google BigQuery
    :toctree: api/
 
    read_gbq
-   DataFrame.to_gpq
+   to_gpq
 
 STATA
 ~~~~~
