@@ -41,7 +41,12 @@ Excel
    read_excel
    DataFrame.to_excel
    ExcelFile.parse
-   Styler.to_excel
+
+.. currentmodule:: pandas.io.formats.style
+.. autosummary::
+   :toctree: api/
+
+   Styler.to_html
 
 .. autosummary::
    :toctree: api/
@@ -96,10 +101,11 @@ LaTeX
 
    DataFrame.to_latex
 
-.. currentmodule:: pandas.io.formats.style
-.. autosummary::
-   :toctree: api/
-   Styler.to_latex
+   .. currentmodule:: pandas.io.formats.style
+   .. autosummary::
+      :toctree: api/
+
+      Styler.to_latex
 
 .. currentmodule:: pandas
 HDFStore: PyTables (HDF5)
