@@ -74,7 +74,7 @@ HTML
    read_html
    DataFrame.to_html
 
-.. currentmodule:: pandas.io
+.. currentmodule:: pandas.io.formats
 .. autosummary::
    :toctree: api/
    Styler.to_html
@@ -88,7 +88,7 @@ XML
    DataFrame.to_xml
 
 LaTeX
-   ~~~~
+~~~~
 .. autosummary::
    :toctree: api/
 
