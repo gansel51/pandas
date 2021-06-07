@@ -77,6 +77,7 @@ HTML
 .. currentmodule:: pandas.io.formats.style
 .. autosummary::
    :toctree: api/
+
    Styler.to_html
 
 .. currentmodule:: pandas
@@ -174,7 +175,7 @@ Google BigQuery
    :toctree: api/
 
    read_gbq
-   to_gpq
+   to_gbq
 
 STATA
 ~~~~~
