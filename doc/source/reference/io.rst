@@ -79,6 +79,7 @@ HTML
    :toctree: api/
    Styler.to_html
 
+.. currentmodule:: pandas
 XML
 ~~~~
 .. autosummary::
@@ -87,6 +88,7 @@ XML
    read_xml
    DataFrame.to_xml
 
+.. currentmodule:: pandas.io.formats
 LaTeX
 ~~~~
 .. autosummary::
@@ -96,6 +98,7 @@ LaTeX
    DataFrame.to_latex
    Styler.to_latex
 
+.. currentmodule:: pandas
 HDFStore: PyTables (HDF5)
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 .. autosummary::
